@@ -1,5 +1,19 @@
 # alpha-dataset
-Dataset to the alpha study paper
+
+This repository contains the supplemental material to the paper *Keep Calm and Don't Switch: About the Relationship Between Switches and Quality in HAS*.
+In the paper we evaluate the relationship between average video quality and switching frequency for HTTP-based video streaming.
+
+## Files
+
+The following files are provided in the dataset:
+
+| File                   | Description                         | 
+|------------------------|-------------------------------------|
+| data/database.csv.gz   | Optimization result                 |
+| data/traffictraces.csv | Mobile goodput trace                |
+| data/videos/*          | Segment sizes of the videos         |
+
+## Citation
 
 If you use the provided material, please cite the following paper:
 
