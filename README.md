@@ -7,11 +7,11 @@ In the paper we evaluate the relationship between average video quality and swit
 
 The following files are provided in the dataset:
 
-| File                   | Description                         | 
-|------------------------|-------------------------------------|
-| data/database.csv.gz   | Optimization result                 |
-| data/traffictraces.csv | Mobile goodput trace                |
-| data/videos/*          | Segment sizes of the videos         |
+| File                   | Description                         | Example Notebook                           |
+|------------------------|-------------------------------------|--------------------------------------------|
+| data/database.csv.gz   | Optimization result                 |                                            |
+| data/traffictraces.csv | Mobile goodput trace                | [trace.ipynb](notebooks/trace.ipynb)       |
+| data/videos/*          | Segment sizes of the videos         | [segments.ipynb](notebooks/segments.ipynb) |
 
 ## Citation
 
