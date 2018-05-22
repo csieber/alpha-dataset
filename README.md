@@ -1,6 +1,6 @@
 # alpha-dataset
 
-This repository contains the supplemental material to the paper *Keep Calm and Don't Switch: About the Relationship Between Switches and Quality in HAS* ([[paper]](https://www.lkn.ei.tum.de/forschung/publikationen/dateien/Moldovan2017KeepCalmandDont.pdf)).
+This repository contains the supplemental material to the paper *Keep Calm and Don't Switch: About the Relationship Between Switches and Quality in HAS* ([[paper]](https://mediatum.ub.tum.de/doc/1415867/1415867.pdf)).
 In the paper we evaluate the relationship between average video quality and switching frequency for HTTP-based video streaming.
 
 ## Files
